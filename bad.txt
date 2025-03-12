@@ -1,2 +1,0 @@
-bad commit
-good commit
